@@ -15,9 +15,7 @@
         <link href="{{ asset('assets/css/templatemo-topic-listing.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-
         <link href="{{ asset('assets/css/uppy.css') }}" rel="stylesheet">
-
 </head>
 <body id="top">
     @include('layouts.includes.header')

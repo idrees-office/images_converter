@@ -43,7 +43,7 @@
                         <h4>JPG to WEBP</h4>
                         <p>Converting an image from JPG to WEBP is a transformation that changes the file format while
                             preserving the image's visual quality.</p>
-                        <a href="#" class="stretched-link"></a>
+                        <a href="{{ route('jpg-to-webp') }}" class="stretched-link"></a>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                         <h4>JPG to HEIC</h4>
                         <p>Converting an image from JPG to HEIC is a transformation that changes the file format while
                             preserving the image's visual quality.</p>
-                        <a href="#" class="stretched-link"></a>
+                        <a href="{{route('jpg-to-heic')}}" class="stretched-link"></a>
                     </div>
                 </div>
             </div>

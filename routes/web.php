@@ -16,11 +16,18 @@ use App\Http\Controllers\ConverterController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/', [HomeController::class, 'Home'])->name('home');
+Route::get('/', [HomeController::class, 'Home'])->name('home');    
+
 
 Route::prefix('convert')->group(function () {
     Route::get('/jpg-to-png', [JpgPngController::class, 'JpgToPng'])->name('jpg-to-png');
     Route::get('/jpg-to-jpeg', [ConverterController::class, 'JpgToJPEG'])->name('jpg-to-jpeg');
+
+    Route::get('/jpg-to-webp', [ConverterController::class, 'JpgToWEBP'])->name('jpg-to-webp');
+
+    Route::get('/jpg-to-heic', [ConverterController::class, 'JpgToHEIC'])->name('jpg-to-heic');
+
+
 
 });
 
