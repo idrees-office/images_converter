@@ -127,7 +127,7 @@
             maxNumberOfFiles: 15,
             allowedFileTypes: ['.jpg'],
         },
-        autoProceed: false,
+        autoProceed: false,   // hey 
         debug: true,
     });
 
