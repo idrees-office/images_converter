@@ -1,7 +1,6 @@
 @extends('layouts.app')
 @section('content')
 @section('title', 'Home Page')
-
 <section class="toolsection">
     <div class="container">
         <div class="section-title">

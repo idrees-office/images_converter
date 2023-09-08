@@ -112,11 +112,8 @@
 <div id="preloader"></div>
 <script type="module">
     // https://releases.transloadit.com/uppy/v3.13.1/uppy.min.mjs
-    import {
-        Uppy,
-        Dashboard
-    } from "https://releases.transloadit.com/uppy/v3.13.1/uppy.min.mjs";
-    // import { Uppy, Dashboard } from "{{ asset('assets/js/uppy.js') }}";
+    // import { Uppy, Dashboard } from "https://releases.transloadit.com/uppy/v3.13.1/uppy.min.mjs";
+    import { Uppy, Dashboard } from "{{ asset('assets/js/uppy.js') }}";
     const uppy = new Uppy({
         restrictions: {
             maxNumberOfFiles: 15,
