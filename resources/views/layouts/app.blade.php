@@ -3,6 +3,7 @@
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="aWEW1-uQutqDCCuN8fUF-Mef37QRjc0ZVXszLX3lHCw" />
         <meta name="og:description" content="@yield('description')">
         <meta name="og:keywords" content="@yield('keywords')">
         <meta name="author" content="">
