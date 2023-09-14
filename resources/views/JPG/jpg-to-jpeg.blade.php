@@ -86,14 +86,14 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-12 m-auto">
-                <h3 class="mb-4 text-center">About JPG To JPEG</h3>
+                <h3 class="mb-4 text-center">About JPG To JPEG    ( hey Idrees)</h3>
                 <p>Converting JPG to JPEG is a common image file format transformation. JPG (Joint Photographic Experts Group) and PNG (Portable Network Graphics) are both popular image formats, but they serve different purposes and have distinct characteristics.
                 </p>
                 <p><strong>JPG is a lossy compression format primarily </strong>.used for photographs and images with a wide range of colors and details. It achieves high compression ratios by discarding some image data, resulting in smaller file sizes but a slight loss in image quality with each compression.</p>
                 <p>JPEG, on the other hand, is a lossless compression format suitable for images with sharp edges, transparency, and limited colors. It retains all image data and offers excellent quality but usually results in larger file sizes compared to JPG.
                 </p>
                 {{-- <div class="row my-4">
-                    <div class="col-lg-6 col-md-6 col-12">
+                    <div class="col-lg-6 col-md-6 col-12"> git merge origin/main
                         <img src="images/businesswoman-using-tablet-analysis.jpg" class="topics-detail-block-image img-fluid">
                     </div>
                     <div class="col-lg-6 col-md-6 col-12 mt-4 mt-lg-0 mt-md-0">
