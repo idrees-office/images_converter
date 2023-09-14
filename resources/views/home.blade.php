@@ -4,7 +4,7 @@
 <section class="toolsection">
     <div class="container">
         <div class="section-title">
-            <h2>User-Friendly and Robust Image Editing   (hey idrees)</h2>
+            <h2>User-Friendly and Robust Image Editing Tools</h2>
             <p>Everything you need to work with Images more efficiently and productively.</p>
         </div>
         <div class="row">
