@@ -1,7 +1,6 @@
 @extends('layouts.app')
 @section('content')
 @section('title', 'Home Page')
-
 <section class="toolsection">
     <div class="container">
         <div class="section-title">
@@ -61,11 +60,10 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-4">
+        {{-- <div class="row mt-4">
             <div class="col-lg-3" data-aos="zoom-in" data-aos-delay="100">
                 <div class="member d-flex align-items-start">
                     <div class="pic"><img src="#" class="img-fluid" alt="" /></div>
-
                     <div class="member-info">
                         <h4>JPG to PNG</h4>
                         <p>Converting an image from JPG to PNG is a transformation that changes the file format while
@@ -113,11 +111,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </section>
-
-
 
 <section class="explore-section section-padding" id="section_2">
     <div class="container">

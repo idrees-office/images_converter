@@ -2,8 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
-use App\Http\Controllers\JpgPngController;
-use App\Http\Controllers\ConverterController;
+
+use App\Http\Controllers\JpgController;
+
 
 
 /*
@@ -19,9 +20,10 @@ use App\Http\Controllers\ConverterController;
 Route::get('/', [HomeController::class, 'Home'])->name('home');
   
 Route::prefix('convert')->group(function () {
-    Route::get('/jpg-to-png', [JpgPngController::class, 'JpgToPng'])->name('jpg-to-png');
-    Route::get('/jpg-to-jpeg', [ConverterController::class, 'JpgToJPEG'])->name('jpg-to-jpeg');
-
+    Route::get('/jpg-to-png',  [JpgController::class, 'JpgToPng'])->name('jpg-to-png');
+    Route::get('/jpg-to-jpeg', [JpgController::class, 'JpgToJPEG'])->name('jpg-to-jpeg');
+    Route::get('/jpg-to-webp', [JpgController::class, 'JpgToWEBP'])->name('jpg-to-webp');
+    Route::get('/jpg-to-heic', [JpgController::class, 'JpgToHEIC'])->name('jpg-to-heic');
 });  
 
 

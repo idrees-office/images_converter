@@ -14,14 +14,6 @@ import { Uppy, Dashboard } from "https://releases.transloadit.com/uppy/v3.13.1/u
         target: '#uppy',
     });
 
-
-
-
-    
-
-
-
-
     uppy.on('restriction-failed', (file, error) => {
 
       window.alert('Maximum of 15 files allowed.');
