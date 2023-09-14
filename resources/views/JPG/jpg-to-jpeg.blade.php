@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-12 mt-4 mt-lg-0 mt-md-0">
                         <img src="images/colleagues-working-cozy-office-medium-shot.jpg" class="topics-detail-block-image img-fluid">
-                    </div>
+                    </div>   
                 </div> --}}
                 <p>When converting from JPG to JPEG, you are essentially changing the image format from a lossy to a lossless one. This conversion can be useful in scenarios where preserving image quality is paramount, especially when working with graphics, logos, or images with transparency. However, it's important to note that converting from JPG to PNG won't magically improve the image quality if the original JPG was already heavily compressed or of low quality. It will only prevent further degradation during subsequent editing or sharing.
                 </p>

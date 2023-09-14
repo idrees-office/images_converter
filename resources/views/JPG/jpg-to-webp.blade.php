@@ -139,7 +139,9 @@
     });
 
     uppy.on('restriction-failed', (file, error) => {
-        window.alert('Maximum of 15 files allowed.');
+        window.alert('Maximum of 15 files allowed.');     
+
+        
     });
 
     uppy.on('complete', async (result) => {
