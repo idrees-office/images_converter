@@ -119,6 +119,61 @@
                 </div>
             </div>
         </div>
+        
+        <div class="row mt-4">
+            <div class="col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member d-flex align-items-start">
+                    <div class="pic">
+                        <img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+                    <div class="member-info">
+                        <h4>PNG to JPG </h4>
+                        <p>Converting an image from PNG to PNG is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpeg-to-jpg') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="member d-flex align-items-start">
+                    <div class="pic"><img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+
+                    <div class="member-info">
+                        <h4>PNG to JPEG</h4>
+                        <p>Converting an image from PNG to JPEG is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpeg-to-png') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="member d-flex align-items-start">
+                    <div class="pic"><img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+
+                    <div class="member-info">
+                        <h4>PNG to WEBP</h4>
+                        <p>Converting an image from PNG to WEBP is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpeg-to-webp') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="member d-flex align-items-start">
+                    <div class="pic"><img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+
+                    <div class="member-info">
+                        <h4>PNG to HEIC</h4>
+                        <p>Converting an image from PNG to HEIC is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpeg-to-heic') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
