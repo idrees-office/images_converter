@@ -5,7 +5,7 @@
                     <div class="col-lg-3 col-12 mb-4 pb-2">
                         <a class="navbar-brand mb-2" href="index.html">
                             <i class="bi-back"></i>
-                            <span>Topic</span>
+                            <span>LovelyImg</span>
                         </a>
                     </div>
 
@@ -22,11 +22,11 @@
                             </li>
 
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">FAQs</a>
+                                <a href="#" class="site-footer-link">Privacy Policy</a>
                             </li>
 
                             <li class="site-footer-link-item">
-                                <a href="#" class="site-footer-link">Contact</a>
+                                <a href="#" class="site-footer-link">Terms and conditions</a>
                             </li>
                         </ul>
                     </div>
@@ -36,13 +36,13 @@
 
                         <p class="text-white d-flex mb-1">
                             <a href="tel: 305-240-9671" class="site-footer-link">
-                                305-240-9671
+                                +971522406449
                             </a>
                         </p>
 
                         <p class="text-white d-flex">
-                            <a href="mailto:info@company.com" class="site-footer-link">
-                                info@company.com
+                            <a href="mailto:info@lovely-img.com" class="site-footer-link">
+                                info@lovely-img.com
                             </a>
                         </p>
                     </div>
@@ -61,8 +61,8 @@
                             </ul>
                         </div>
 
-                        <p class="copyright-text mt-lg-5 mt-4">Copyright © 2048 Topic Listing Center. All rights reserved.
-                        <br><br>Design: <a rel="nofollow" href="https://templatemo.com" target="_blank">TemplateMo</a> Distribution <a href="https://themewagon.com">ThemeWagon</a></p>
+                        {{-- <p class="copyright-text mt-lg-5 mt-4">Copyright © 2048 Topic Listing Center. All rights reserved.
+                        <br><br>Design: <a rel="nofollow" href="https://templatemo.com" target="_blank">TemplateMo</a> Distribution <a href="https://themewagon.com">ThemeWagon</a></p> --}}
                     </div>
 
                 </div>

@@ -532,7 +532,7 @@ strong {
   TOPICS              
 -----------------------------------------*/
 .custom-block {
-  border-radius: var(--border-radius-medium);
+  /* border-radius: var(--border-radius-medium); */
   position: relative;
   overflow: hidden;
   padding: 30px;

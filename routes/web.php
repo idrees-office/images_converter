@@ -7,6 +7,9 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\PngController;
 
 use App\Http\Controllers\JpegController;
+use App\Http\Controllers\SitemapController;
+
+
 
 
 
@@ -36,13 +39,14 @@ Route::prefix('convert')->group(function () {
     Route::get('/png-to-heic', [PngController::class, 'PngToHEIC'])->name('png-to-heic');
 });
 
-
 Route::prefix('convert')->group(function () {
     Route::get('/jpeg-to-jpg',  [JpegController::class, 'JPEGToJpg'])->name('jpeg-to-jpg');
     Route::get('/jpeg-to-png',  [JpegController::class, 'JPEGToPNG'])->name('jpeg-to-png');
     Route::get('/jpeg-to-webp', [JpegController::class, 'JPEGToWEBP'])->name('jpeg-to-webp');
     Route::get('/jpeg-to-heic', [JpegController::class, 'JPEGToHEIC'])->name('jpeg-to-heic');
 });
+
+Route::get('/sitemap.xml', [SitemapController::class, 'SiteMap']);
 
 
 
