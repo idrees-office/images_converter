@@ -11,11 +11,12 @@
 </style>
 <section class="JpgtoPngSection mt-5">
     <div class="container">
+
         <div class="row">
             <div class="col-md-12">
                 <div class="text-center convertjpgtopdf_main">
                     <h1 class="convertjpgtopdf">PNG to WEBP</h1>
-                    <h2 class="bestPNGtopdf">Convert PNG images to WEBP in seconds. Easily adjust orientation and
+                    <h2 class="bestjpgtopdf">Convert PNG images to WEBP in seconds. Easily adjust orientation and
                         margins.
                     </h2>
                 </div>

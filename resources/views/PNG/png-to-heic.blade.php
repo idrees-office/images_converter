@@ -14,8 +14,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-center convertjpgtopdf_main">
-                    <h1 class="convertjpgtopdf">PNG to JPEG</h1>
-                    <h2 class="bestjpgtopdf">Convert JPG images to JPEG in seconds. Easily adjust orientation and
+                    <h1 class="convertjpgtopdf">PNG to HEIC</h1>
+                    <h2 class="bestjpgtopdf">Convert JPG images to HEIC in seconds. Easily adjust orientation and
                         margins.
                     </h2>
                 </div>
@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-12 text-center">
-                <h3 class="mb-4">How to convert PNG to JPEG.</h3>
+                <h3 class="mb-4">How to convert PNG to HEIC.</h3>
             </div>
             <div class="col-lg-4 col-md-4 col-12 mt-3 mb-4 mb-lg-0">
                 <div class="custom-block bg-white shadow-lg">
@@ -70,7 +70,7 @@
                         <div class="d-flex">
                             <div>
                                 <h5 class="mb-2">Download</h5>
-                                <p class="mb-0">Your new image will download as a JPEG file. Save it, share it, or keep
+                                <p class="mb-0">Your new image will download as a HEIC file. Save it, share it, or keep
                                     editing to make it your own.</p>
                             </div>
                             <span class="badge bg-finance rounded-pill ms-auto">3</span>

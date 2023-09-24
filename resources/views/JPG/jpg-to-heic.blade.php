@@ -14,8 +14,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="text-center convertjpgtopdf_main">
-                    <h1 class="convertjpgtopdf">JPG to JPEG</h1>
-                    <h2 class="bestjpgtopdf">Convert JPG images to JPEG in seconds. Easily adjust orientation and
+                    <h1 class="convertjpgtopdf">JPG to HEIC</h1>
+                    <h2 class="bestjpgtopdf">Convert JPG images to HEIC in seconds. Easily adjust orientation and
                         margins.
                     </h2>
                 </div>
@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-12 text-center">
-                <h3 class="mb-4">How to convert JPG to JPEG.</h3>
+                <h3 class="mb-4">How to convert JPG to HEIC.</h3>
             </div>
             <div class="col-lg-4 col-md-4 col-12 mt-3 mb-4 mb-lg-0">
                 <div class="custom-block bg-white shadow-lg">

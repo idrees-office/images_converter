@@ -15,12 +15,13 @@
             <div class="col-md-12">
                 <div class="text-center convertjpgtopdf_main">
                     <h1 class="convertjpgtopdf">JPEG to WEBP</h1>
-                    <h2 class="bestPNGtopdf">Convert PNG images to WEBP in seconds. Easily adjust orientation and
+                    <h2 class="bestjpgtopdf">Convert JPEG images to WEBP in seconds. Easily adjust orientation and
                         margins.
                     </h2>
                 </div>
             </div>
         </div>
+       
         <div class="row">
             <div class="col-md-12 pt-3">
                 <div id="uppy"></div>
