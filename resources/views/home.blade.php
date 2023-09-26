@@ -171,6 +171,55 @@
                 </div>
             </div>
         </div>
+
+        <div class="row mt-4">
+            <div class="col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member d-flex align-items-start">
+                    <div class="pic">
+                        <img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+                    <div class="member-info">
+                        <h4>JPG to GIF </h4>
+                        <p>Converting an image from JPG to GIF is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpg-to-gif') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member d-flex align-items-start">
+                    <div class="pic">
+                        <img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+                    <div class="member-info">
+                        <h4>JPG to TIFF </h4>
+                        <p>Converting an image from JPG to TIFF is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpg-to-tiff') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+                <div class="member d-flex align-items-start">
+                    <div class="pic">
+                        <img src="{{ asset('assets/img/tools/jpg-to-png.webp') }}" class="img-fluid" alt="" />
+                    </div>
+                    <div class="member-info">
+                        <h4>JPG to AVIF </h4>
+                        <p>Converting an image from JPG to AVIF is a transformation that changes the file format while
+                            preserving the image's visual quality.</p>
+                        <a href="{{ route('jpg-to-avif') }}" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+       
+
     </div>
 </section>
 

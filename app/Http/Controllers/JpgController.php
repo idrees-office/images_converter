@@ -17,4 +17,17 @@ class JpgController extends Controller
     function JpgToHEIC()  {
         return \view('JPG.jpg-to-heic');
     }
+    function JpgToGIF()  {
+        return \view('JPG.jpg-to-gif');
+    }
+
+    function JpgToTIFF()  {
+        return \view('JPG.jpg-to-tiff');
+    }
+    
+    function JpgToAVIF()  {
+        return \view('JPG.jpg-to-avif');
+    }
+
+
 }
