@@ -30,6 +30,14 @@ Route::prefix('convert')->group(function () {
     Route::get('/jpg-to-jpeg', [JpgController::class, 'JpgToJPEG'])->name('jpg-to-jpeg');
     Route::get('/jpg-to-webp', [JpgController::class, 'JpgToWEBP'])->name('jpg-to-webp');
     Route::get('/jpg-to-heic', [JpgController::class, 'JpgToHEIC'])->name('jpg-to-heic');
+    Route::get('/jpg-to-gif', [JpgController::class, 'JpgToGIF'])->name('jpg-to-gif');
+
+
+    Route::get('/jpg-to-tiff', [JpgController::class, 'JpgToTIFF'])->name('jpg-to-tiff');
+    Route::get('/jpg-to-avif', [JpgController::class, 'JpgToAVIF'])->name('jpg-to-avif');
+
+
+
 });
 
 Route::prefix('convert')->group(function () {
